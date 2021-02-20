@@ -150,7 +150,7 @@ int main()
         flag = 1;
     }
     if (flag == 0) {
-        printf("All correct");
+        printf("All correct\n");
     }
 }
 ////////////////////////////////////////////////
